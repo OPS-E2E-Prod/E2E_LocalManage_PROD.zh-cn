@@ -1,20 +1,6 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "DocsetSync_Prod",
-      "build_source_folder": "DocsetSync_Prod",
-      "build_output_subfolder": "DocsetSync_Prod",
-      "locale": "zh-cn",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
       "docset_name": "E2E_LocalManage_PROD",
       "build_source_folder": "E2E_LocalManage_PROD",
       "build_output_subfolder": "E2E_LocalManage_PROD",
